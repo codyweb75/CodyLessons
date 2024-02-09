@@ -1,0 +1,63 @@
+Voici une version mise à jour de votre README, incluant Mathieu Fdida comme auteur, avec les références à son site et son profil LinkedIn.
+
+---
+
+# TDD Course / Cours sur le TDD
+
+## English
+
+Welcome to the GitHub repository for our Test-Driven Development (TDD) course! This course is designed to teach you the fundamentals of TDD, a software development process that relies on the repetition of a very short development cycle. The primary goal is to write cleaner code that works, guided by the simple concept of writing tests before your actual implementation code.
+
+### Author
+**Mathieu Fdida**
+- Website: [codyweb.fr](https://codyweb.fr)
+- LinkedIn: [Mathieu Fdida](https://www.linkedin.com/in/mathieu-fdida/)
+
+### What You Will Learn
+- The basics of TDD and its importance in software development.
+- How to implement the Red-Green-Refactor cycle in your development process.
+- Best practices for writing testable code and designing tests.
+- Working with popular testing frameworks in different programming languages.
+
+### Course Structure
+- **Introduction to TDD**: Understanding the philosophy and benefits.
+- **Setting Up Your Environment**: Tools and frameworks you'll need.
+- **The Red-Green-Refactor Cycle**: Detailed walkthroughs and examples.
+- **Advanced TDD Concepts**: Mocking, stubs, and test coverage.
+- **Project Work**: Apply what you've learned in a comprehensive project.
+
+### Resources
+- Code examples are available in the `examples` directory.
+- Additional resources and readings are listed in the `resources` folder.
+
+### Contribution
+Feel free to contribute to this course by submitting pull requests or opening issues for discussion.
+
+## Français
+
+Bienvenue dans le dépôt GitHub de notre cours sur le Développement Piloté par les Tests (TDD) ! Ce cours est conçu pour vous enseigner les fondamentaux du TDD, un processus de développement logiciel qui repose sur la répétition d'un cycle de développement très court. L'objectif principal est d'écrire un code plus propre qui fonctionne, guidé par le concept simple de rédiger des tests avant votre code d'implémentation réel.
+
+### Auteur
+**Mathieu Fdida**
+- Site Web : [codyweb.fr](https://codyweb.fr)
+- LinkedIn : [Mathieu Fdida](https://www.linkedin.com/in/mathieu-fdida/)
+
+### Ce Que Vous Allez Apprendre
+- Les bases du TDD et son importance dans le développement logiciel.
+- Comment implémenter le cycle Rouge-Vert-Refactor dans votre processus de développement.
+- Les meilleures pratiques pour écrire un code testable et concevoir des tests.
+- Travailler avec des frameworks de test populaires dans différents langages de programmation.
+
+### Structure du Cours
+- **Introduction au TDD** : Comprendre la philosophie et les avantages.
+- **Configurer Votre Environnement** : Outils et frameworks nécessaires.
+- **Le Cycle Rouge-Vert-Refactor** : Tutoriels détaillés et exemples.
+- **Concepts Avancés de TDD** : Mocking, stubs et couverture de test.
+- **Travail de Projet** : Appliquez ce que vous avez appris dans un projet complet.
+
+### Ressources
+- Les exemples de code sont disponibles dans le répertoire `examples`.
+- Les ressources supplémentaires et lectures sont listées dans le dossier `resources`.
+
+### Contribution
+N'hésitez pas à contribuer à ce cours en soumettant des pull requests ou en ouvrant des issues pour discussion.
