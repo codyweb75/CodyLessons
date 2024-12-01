@@ -34,4 +34,4 @@ Le dépôt contient :
 
 Pour toute question ou suggestion :  
 - **Auteur** : Mathieu Fdida  
-- **Email** : [mathieu.fdida@codyweb.fr](mailto:mathieu.fdida@codyweb.fr)  
+- **Email** : [hello@codyweb.fr](mailto:hello@codyweb.fr)  
